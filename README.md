@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hola, soy Shamir Vargas 
 
-<!--
-**ShamirVZ/ShamirVZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudiante de Ingeniería de Sistemas de Información en la Universidad Peruana de Ciencias Aplicadas (UPC).
 
-Here are some ideas to get you started:
+Me apasiona la inteligencia artificial y su potencial para resolver problemas reales. Me interesa especialmente la aplicación de IA y automatización para mejorar los procesos empresariales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interés
+
+- Inteligencia Artificial y agentes inteligentes
+- Machine Learning y Deep Learning
+- Automatización de procesos
+- Data Science y análisis de datos
+- Gestión de proyectos tecnológicos
+
+## Tecnologías y conocimientos
+
+**Programación:** Python y C++
+
+**Análisis de datos:** Pandas, NumPy y Matplotlib
+
+**Entornos de trabajo:** Google Colab, Jupyter Notebook y Visual Studio Code
+
+**Actualmente aprendiendo:** SQL, bases de datos, programación orientada a objetos y desarrollo web.
+
+## Proyectos académicos
+
+ **Clasificación de imágenes histopatológicas mediante Deep Learning**
+
+Proyecto grupal que compara arquitecturas CNN Base, EfficientNetB0 y MLP-Mixer para clasificación de imágenes.
+
+ **Análisis exploratorio de datos musicales de Spotify**
+
+Proyecto grupal de análisis estadístico, limpieza de datos y visualización mediante Python.
+
+*Los enlaces a los repositorios estarán disponibles cuando se complete su publicación.*
+
+## Certificaciones
+
+- IA & Deep Learning — WE Educación Ejecutiva, 2026
+- Python: Análisis de Datos — WE Educación Ejecutiva, 2026
+
+## Objetivo profesional
+
+Continuar desarrollando mis conocimientos en inteligencia artificial y automatización, participar en proyectos tecnológicos y adquirir experiencia profesional en soluciones que generen valor para las organizaciones.
