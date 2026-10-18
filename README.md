@@ -24,15 +24,15 @@ Me apasiona la inteligencia artificial y su potencial para resolver problemas re
 
 ## Proyectos académicos
 
- **Clasificación de imágenes histopatológicas mediante Deep Learning**
+**[Clasificación de imágenes histopatológicas mediante Deep Learning](https://github.com/ShamirVZ/histopathology-cancer-detection)**
 
 Proyecto grupal que compara arquitecturas CNN Base, EfficientNetB0 y MLP-Mixer para clasificación de imágenes.
 
- **Análisis exploratorio de datos musicales de Spotify**
+**[Análisis exploratorio de datos musicales de Spotify](https://github.com/ShamirVZ/spotify-data-analysis)**
 
 Proyecto grupal de análisis estadístico, limpieza de datos y visualización mediante Python.
 
-*Los enlaces a los repositorios estarán disponibles cuando se complete su publicación.*
+*Ambos proyectos se desarrollaron en equipo y se encuentran documentados en sus respectivos repositorios.*
 
 ## Certificaciones
 
